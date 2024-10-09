@@ -21,34 +21,21 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
-          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
   <img width="12" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
-          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" alt="Adobe xd logo" />
+<img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+ <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" height="40" alt="framer logo" />
   <img width="12" />
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" alt="Adobe xd logo" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="wordpress logo" />
   <img width="12" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-          
-  <img width="12" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-          
-  <img width="12" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" height="40" alt="framer logo" />
-          
-  <img width="12" />
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" height="40" alt="wordpress logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" height="40" alt="wordpress logo" />
           
 </div>
 
